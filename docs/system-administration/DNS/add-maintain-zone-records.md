@@ -18,6 +18,7 @@ This is a quick guide on how to update/maintain your zone records or how to add 
 
   1. Update the serial number.
   2. Update your zone records.
+  3. Trigger the reload.
 
 ## Adding a new zone file to your servers.
 
@@ -28,7 +29,7 @@ This is a quick guide on how to update/maintain your zone records or how to add 
 
 !!! warning
     These steps are only done on your primary name server (NS1)
-    
+
 ### Forward Zone Record.
 
 ### Reverse Zone Record.
