@@ -179,6 +179,13 @@ bogus.example.com.      IN  A   203.X.X.X
 !!! warning
     These steps are only done on your primary name server (NS1)
 
-### Forward Zone Record.
+### Adding records to your primary name server.
 
-### Reverse Zone Record.
+#### Forward Zone Record.
+
+#### Reverse Zone Record.
+
+!!! warning
+    These steps are only done on your secondary name servers (NS2~)
+
+### Adding records to your secondary name servers.
