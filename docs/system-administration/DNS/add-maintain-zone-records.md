@@ -121,9 +121,11 @@ $TTL	86400
 1   IN      PTR     router.example.com.
 
 10  IN      PTR     ns1.example.com.
+
 20  IN      PTR     ns2.example.com.
 
 35  IN      PTR     hassio.example.com.
+
 40  IN      PTR     printer.example.com.
 ```
 
