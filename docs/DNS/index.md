@@ -1,6 +1,6 @@
 ---
 title: Self Hosting a Caching / Authoritative Internal DNS Server
-summary: A simple introduction on DNS
+summary: An Introduction to DNS
 date: 2020-11-26
 authors:
   - Adam Spann
@@ -19,6 +19,7 @@ Sometimes our internal/home networks become large and complex. Editing local hos
 ## The guides
 - BIND
     - [Debian (Stretch / Buster)](debian-bind.md)
+- [Unbound](unbound-dns.md)
 
 # References
 - [Split Horizon Master/Slave](https://jensd.be/160/linux/split-horizon-dns-masterslave-with-bind)
